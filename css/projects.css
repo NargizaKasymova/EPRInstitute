@@ -1,0 +1,41 @@
+.projects {
+    
+    /* width: 1920px; */
+    height: 250px;
+        
+    background-color: #34547A ;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+
+
+.project {
+    display: flex;
+    
+    align-items: center;
+    font-size: 16px;
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-weight:500;
+    flex-wrap: wrap;
+    margin-right:49px;
+
+    
+}
+.project-data {
+    margin-left: 20px;
+}
+
+@media screen and(max-width: 360px) {
+    .projects {
+        justify-content: space-around;
+    }
+    .project {
+        margin: 0;
+    }
+}

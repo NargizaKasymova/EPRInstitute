@@ -4,6 +4,27 @@
 
 * {
     font-family: 'Roboto', sans-serif;
-    background-color: #EEEFF1;
+    /* background-color: #EEEFF1; */
     text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.full-gray-width{
+    width: 1920px;
+    height: 700px;
+    background-color: #EEEFF1
+}
+
+.content {
+    max-width: 1091px;
+    margin: auto;
+}
+
+@media screen and(max-width: 1024px) {
+    .content {
+        max-width: 800px;
+    }
+    
 }
