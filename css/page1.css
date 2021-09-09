@@ -3,7 +3,7 @@
 .page1 {
     display: flex;
     /* justify-content: space-between; */
-    width: 1250px;
+    width: 1200px;
     height: 250px;
     background-color: #d9e798;
     margin-top: 27px;
@@ -17,7 +17,7 @@
 .page1-image {
     width: 150px;
     height: 150px;
-    margin-left: 30px;
+    margin-left: 70px;
     /* padding-right: 30px; */
     border-radius: 195%;
     margin-top: 10px;

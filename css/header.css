@@ -14,7 +14,7 @@ header {
     display: flex;
     /* flex-direction: row; */
     justify-content: space-between;
-    /* margin-right: 413px; */
+    /* margin-left: 413px; */
     background-color: #391480;
     /* color:white; */
 }
