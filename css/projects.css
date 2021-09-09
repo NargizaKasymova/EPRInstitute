@@ -1,9 +1,9 @@
 .projects {
-    
+    margin-top: 100px;
     /* width: 1920px; */
-    height: 250px;
+    height: 170px;
         
-    background-color: #34547A ;
+    background-color: #391480 ;
 
     display: flex;
     justify-content: center;
