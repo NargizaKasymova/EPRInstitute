@@ -14,30 +14,35 @@ header {
     display: flex;
     /* flex-direction: row; */
     justify-content: space-between;
-    margin-right: 413px;
+    /* margin-right: 413px; */
+    background-color: #391480;
+    /* color:white; */
 }
 
 .menu {
     display: flex;
     justify-content: space-between;
     width: 661px;
-    /* margin-right: 413px; */
+    margin-right: 113px;
+    margin-left: 250px;
+
     margin-top: 79px ;
-    text-decoration: none;
-    color:black;
+    /* text-decoration: none; */
+    color:white;
 }
 .main {
-    color: #34547A;
+    color: white;
 }
 
 .logo {
-    font-family: 'Revalia', cursive;
-    font-size: 48px;
-    color: #34547A;
+    /* font-family: 'Revalia', cursive; */
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
     width: 96px;
-    height: 60px;
-    margin-left: 402px;
-    margin-top: 57px;
+    height: 25px;
+    margin-left: 30px;
+    margin-top: 25px;
     margin-right: 10px;
 
 }

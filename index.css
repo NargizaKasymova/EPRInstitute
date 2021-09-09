@@ -9,16 +9,17 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    color: white;
 }
 
 .full-gray-width{
-    width: 1920px;
+    width: 1349px;
     height: 700px;
-    background-color: #EEEFF1
+    /* background-color: lightblue */
 }
 
 .content {
-    max-width: 1091px;
+    max-width: 1349px;
     margin: auto;
 }
 
